@@ -82,4 +82,6 @@ def mergeSort(array):
 array=[12,15,17,20,1,4,51,90,17,17]
 print("merged array: ", mergeSort(array))
 
+
+
     
