@@ -27,6 +27,7 @@ def insertionSort(array):
         array[i+1]=key  
         
         # Print the sorted array
+        return array
         print("Sorted array: ",array)  
         
-insertionSort(array)
+print("Final sorted array: ",insertionSort(array))
